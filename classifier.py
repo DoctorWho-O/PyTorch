@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 ########################################################################
-1.1 Loading and normalizing CIFAR10
+#1.1 Loading and normalizing CIFAR10
 import torch
 import torchvision
 import torchvision.transforms as transforms
@@ -24,7 +24,7 @@ classes = ('plane', 'car', 'bird', 'cat',
            'deer', 'dog', 'frog', 'horse', 'ship', 'truck')
 
 ########################################################################
-1.2 Let us show some of the training images, for fun.
+#1.2 Let us show some of the training images, for fun.
 
 import matplotlib.pyplot as plt
 import numpy as np
